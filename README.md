@@ -4,7 +4,7 @@ Some scripts to make life easier. Currently based on XONSH.
 ## dependencies
 
 ```sh
-pip install xonsh pygithub
+pip3 install xonsh pygithub
 ```
 
 
@@ -14,6 +14,6 @@ pip install xonsh pygithub
 export github_username=...
 export github_password=...
 
-python github_flow.py
+python3 github_flow.py
 ```
 

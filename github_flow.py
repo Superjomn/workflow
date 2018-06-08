@@ -1,5 +1,7 @@
+#encoding=utf8
+from __future__ import print_function
 from github import *
-import fire
+import os
 import datetime
 import logging
 
